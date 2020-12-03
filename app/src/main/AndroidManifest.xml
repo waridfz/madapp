@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.captions.app.technic">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name="com.captions.app.technic.MainActivity" />
+        <activity
+            android:name="com.captions.app.technic.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.captions.app.technic.categories.Attitude"/>
+        <activity android:name="com.captions.app.technic.categories.bestfriend"/>
+        <activity android:name="com.captions.app.technic.categories.birthday"/>
+        <activity android:name="com.captions.app.technic.categories.bold"/>
+        <activity android:name="com.captions.app.technic.categories.Couple"/>
+        <activity android:name="com.captions.app.technic.categories.family"/>
+        <activity android:name="com.captions.app.technic.categories.Funny"/>
+        <activity android:name="com.captions.app.technic.categories.GoodMorning"/>
+        <activity android:name="com.captions.app.technic.categories.GoodNight"/>
+        <activity android:name="com.captions.app.technic.categories.Love"/>
+        <activity android:name="com.captions.app.technic.categories.religious"/>
+
+
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+    </application>
+
+</manifest>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Your Captions </string>
+    <string name="app_description">Your Captions is an android application, with a user-friendly interface which is easy to manage.</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">waridr79@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="ads">"ca-app-pub-3940256099942544/6300978111"</string>
+
+    <string name="menu_home">Rate</string>
+    <string name="menu_gallery">Share</string>
+    <string name="menu_slideshow">About Us</string>
+
+
+
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "276704405654",
+    "firebase_url": "https://this-caption-141e3.firebaseio.com",
+    "project_id": "this-caption-141e3",
+    "storage_bucket": "this-caption-141e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276704405654:android:3c0965fccbe55122f37ab7",
+        "android_client_info": {
+          "package_name": "com.captions.app.technic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276704405654-f087eqnnuj0ilhl5jtr4dj9v7376okl1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrE7kzVOAg_jyXZ5Oz9SgUQfjM86i-BFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276704405654-f087eqnnuj0ilhl5jtr4dj9v7376okl1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
